@@ -2,7 +2,7 @@ import telebot
 import mathfunc
 
 
-bot = telebot.TeleBot("5313397808:AAG6fKq9r8mahbE-PslNUy2yfamhIUAGsKM")
+bot = telebot.TeleBot("")
 
 
 command_list = '''Funções matemáticas:\n
